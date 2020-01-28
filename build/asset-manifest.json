@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2b585de5.chunk.css",
+    "main.js": "./static/js/main.ec95811c.chunk.js",
+    "main.js.map": "./static/js/main.ec95811c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.eac249a8.js",
+    "runtime-main.js.map": "./static/js/runtime-main.eac249a8.js.map",
+    "static/css/2.2f168147.chunk.css": "./static/css/2.2f168147.chunk.css",
+    "static/js/2.2fba2622.chunk.js": "./static/js/2.2fba2622.chunk.js",
+    "static/js/2.2fba2622.chunk.js.map": "./static/js/2.2fba2622.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b4c2dc7feea3d03391c7c700c71d7ad7.js": "./precache-manifest.b4c2dc7feea3d03391c7c700c71d7ad7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.2f168147.chunk.css.map": "./static/css/2.2f168147.chunk.css.map",
+    "static/css/main.2b585de5.chunk.css.map": "./static/css/main.2b585de5.chunk.css.map",
+    "static/js/2.2fba2622.chunk.js.LICENSE": "./static/js/2.2fba2622.chunk.js.LICENSE",
+    "static/media/all.min.css": "./static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/zoovu-o.987e802d.svg": "./static/media/zoovu-o.987e802d.svg",
+    "static/media/zoovu-u.509452d2.svg": "./static/media/zoovu-u.509452d2.svg",
+    "static/media/zoovu-v.f04e5e7e.svg": "./static/media/zoovu-v.f04e5e7e.svg",
+    "static/media/zoovu-z.98d275b2.svg": "./static/media/zoovu-z.98d275b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eac249a8.js",
+    "static/css/2.2f168147.chunk.css",
+    "static/js/2.2fba2622.chunk.js",
+    "static/css/main.2b585de5.chunk.css",
+    "static/js/main.ec95811c.chunk.js"
+  ]
+}
